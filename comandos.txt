@@ -8,11 +8,11 @@ saber o que foi modificado na pasta:
 
         git status
 
-Monitorar as modificações do arquivo
+Monitorar as modificações do arquivo:
 
         git add (nome do aquivo)
 
-adicionar todos os aqruivos de uma vez
+adicionar todos os aqruivos de uma vez:
 
         git add .
 
@@ -20,6 +20,18 @@ commit
 
         git commit (nome do arquivo) -m "Comentario "
 
-commit tudo de uma vez
+commit tudo de uma vez:
 
         git commit -m "Comentario "
+
+criar a branch:
+
+    git branch -M main
+
+link do repositorio que a pasta vai:
+
+    git remote add origin (link do repositorio)
+
+Subir a pasta para o repositorio:
+
+    git push -u origin main
