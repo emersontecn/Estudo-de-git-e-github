@@ -19,3 +19,7 @@ adicionar todos os aqruivos de uma vez
 commit
 
         git commit (nome do arquivo) -m "Comentario "
+
+commit tudo de uma vez
+
+        git commit -m "Comentario "
