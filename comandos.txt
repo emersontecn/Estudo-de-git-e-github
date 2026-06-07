@@ -1,8 +1,21 @@
+em um repositorio local
+
 abrir uma paste e ativar o repositorio:
+
         git init
 
 saber o que foi modificado na pasta:
+
         git status
 
 Monitorar as modificações do arquivo
+
         git add (nome do aquivo)
+
+adicionar todos os aqruivos de uma vez
+
+        git add .
+
+commit
+
+        git commit (nome do arquivo) -m "Comentario "
