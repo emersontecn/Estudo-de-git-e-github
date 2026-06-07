@@ -1,0 +1,8 @@
+abrir uma paste e ativar o repositorio:
+        git init
+
+saber o que foi modificado na pasta:
+        git status
+
+Monitorar as modificações do arquivo
+        git add (nome do aquivo)
