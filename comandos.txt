@@ -32,6 +32,13 @@ link do repositorio que a pasta vai:
 
     git remote add origin (link do repositorio)
 
+sincronizar o que ja tem no repositorio com o local:
+
+    git pull origin main --allow-unrelated-histories
+
 Subir a pasta para o repositorio:
 
     git push -u origin main
+
+enviar uma atualização
+    [git push]
